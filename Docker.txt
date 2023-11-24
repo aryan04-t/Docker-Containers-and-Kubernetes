@@ -1,0 +1,51 @@
+# Learning Docker: 
+
+-> Play with public docker images 
+-> Create a docker image for an application that you have built on your own 
+-> Launch up an database as a docker container and have your application talk to it (Like this I can learn basic networking concepts) 
+-> Run couple of microservices in your local machine as docker containers and get them to talk to each other 
+-> Run Docker Containers in the cloud (like AWZ, Google Cloud, Azure, etc.) 
+
+
+_ _ _ _ _ _ _ _ _ _ 
+
+
+
+Docker is an open-Source Software 
+
+Docker is a conter
+
+Rocket, containerD and 
+
+Docker tries to make things system independent by defining customized enivronments for anything that you want to deploy, the customized environment are the once which are called containers, which have all the things and dependencies set-up for your application inside it. 
+
+So, inside this container if your application works smoothly, then you can 
+
+
+
+
+_ _ _ _ _ _ _ _ _ _ 
+
+
+--> It happens that my app works on my machine but not on my friend's machine, this problem is solved by VMs, VMs solve this problem by replicating the machines, but each virtual machine is really slow because each one of them have an OS build in it, here comes the roll of Docker, Docker uses containers to isloate everything at the OS level, so that all the containers can share the OS and be much faster and disposable. 
+
+
+--> Using a docker file is easy to spin up a container fast, and you can find a huge ecosystem of existing services and apps. 
+
+--> Docker makes your apps scalable, reliable and performant. 
+
+_ _ _ _ _ _ 
+
+Spinning Up docker images is easier as compared to VMs, because VMs have their own OS, and installing and configuring OS takes time be up and running. 
+
+In Docker the OS is shared by the containers, that's why it doesn't takes time for a docker image to spin up. 
+
+Portability and System Independency is achieved by containerization, that is why we use Docker. 
+
+One more benefit of docker is scalability, a package/container which has your application and its environment set-up in it, if you want 10000 instances of it the other second due to high demand, you want to supply it to a lot of people, then this type of scalability is achieved easily by using docker, you can scale your container as many times as you want. 
+
+
+
+
+
+

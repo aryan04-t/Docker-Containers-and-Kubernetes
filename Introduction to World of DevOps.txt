@@ -1,0 +1,65 @@
+# Meaning of Some Common Terminologies that I hear a lot when I try to Explore DevOps: 
+
+1. DevOps 
+2. Microservices 
+3. IT Operations / Services 
+4. AWS 
+5. Docker 
+6. Containers and Containerization 
+7. Kubernetes 
+8. 
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+
+# First of all, let's start with Dev Ops:
+
+
+1. What is DevOps: 
+
+
+--> DevOps stands for "Development" and "Operations." 
+
+--> DevOps integrates and automates the work of software development and IT operations as a means for improving and shortening the system's development life cycle. 
+
+--> So, basically we can say that DevOps is a set of practices and cultural philosophies that aim to improve collaboration and communication between software development and IT operations teams. 
+
+_ _ _ _ _ _ _ _ _ _ 
+
+
+@ Main Goal of DevOps:
+
+--> DevOps try to enhance efficiency, quality, and overall business outcomes. 
+
+--> And to Improve all these things, the field of DevOps focuses majorly on 2 factors: 
+    (i) Enabling faster and more reliable delivery of softwares. 
+   (ii) Bridging the gap between development and IT operations. 
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+
+2. 
+
+
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+
+# References Cited: 
+
+* https://aws.amazon.com/devops/what-is-devops/
+
+* https://orangematter.solarwinds.com/2022/03/21/what-is-devops/ 
+
+* https://en.wikipedia.org/wiki/DevOps 
+
+* https://aws.amazon.com/microservices/ 
+
+
+
+
+
+
+
+
+  
